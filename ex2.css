@@ -1,0 +1,33 @@
+table{
+    border: solid 2px blue;
+    width: 50%;
+}
+
+td, th{
+    border: solid 2px blue;  
+}
+
+th{
+    background-color: silver;
+    height: 40px;
+}
+
+.rouge{
+    background-color: lightcoral;
+}
+
+.jaune{
+    background-color: lightyellow;
+}
+
+.vert{
+    background-color: lightgreen;
+}
+
+.bleu{
+    background-color: lightblue;
+}
+
+.gris{
+    background-color: lightgray;
+}

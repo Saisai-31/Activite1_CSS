@@ -1,0 +1,32 @@
+body{
+    background-color: skyblue;
+    width: 500px;
+    margin-left: 5px;
+    /*text-indent: 5px; pour faire un retrait de 5 px uniquement sur la première ligne*/
+}
+
+#layout{
+    text-align: center; 
+}
+
+.gauche{
+    text-align: left;
+}
+
+.droite{
+    text-align: right;
+}
+
+.justifiée{
+    text-align: justify;
+}
+
+h2{
+    font-size: 1.5em;
+    text-transform: capitalize;
+}
+
+button{
+    background-color: yellow;
+    width: 100px;
+}
