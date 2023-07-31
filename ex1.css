@@ -1,11 +1,8 @@
-body{
+#layout{
     background-color: skyblue;
     width: 500px;
-    margin-left: 5px;
+    margin: 5px;
     /*text-indent: 5px; pour faire un retrait de 5 px uniquement sur la première ligne*/
-}
-
-#layout{
     text-align: center; 
 }
 
